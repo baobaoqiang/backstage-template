@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Template
 metadata:
-  name: create-react-app-template
-  title: Create React App Template
+  name: create-react-app-template111
+  title: Create React111 App Template
   description: Create a new CRA111 website project
   tags:
     - experimental
