@@ -6,4 +6,4 @@ metadata:
 spec:
   type: github
   targets:
-    - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/acme/org.yaml
+    - https://github.com/baobaoqiang/backstage-template/blob/main/acme/org.yaml
