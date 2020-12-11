@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: example-api
+  description: 这是一个自定义的api，主要是为了探索写法
+spec:
+  type: js
+  lifecycle: deprecated
+  owner: wq@example.com
+  definition: |
+    var a = 4;
