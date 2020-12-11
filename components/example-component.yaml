@@ -1,7 +1,7 @@
 apiVersion: backsstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Component例子
+  name: Component-example # [a-zA-Z0-9]
   description: 自己自定义的component
   tags:
     - text
