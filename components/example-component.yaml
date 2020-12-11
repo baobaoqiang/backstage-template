@@ -1,4 +1,4 @@
-apiVersion: backsstage.io/v1alpha1
+apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Component-example # [a-zA-Z0-9]
