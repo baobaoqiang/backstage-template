@@ -4,7 +4,7 @@ metadata:
   name: example-api
   description: 这是一个自定义的api，主要是为了探索写法
   annotations:
-    backstage.io/techdocs-ref: http://192.168.71.68:8000
+    backstage.io/techdocs-ref: gitlab:http://192.168.71.68:10080/rdev_portal/mkdocs.git
 spec:
   type: js
   lifecycle: deprecated
