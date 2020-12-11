@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: Component-example # [a-zA-Z0-9]
   description: 自己自定义的component
+  annotations:  # 注释
+    backstage.io/techdocs-ref: gitlab:http://192.168.71.68:10080/rdev_portal/mkdocs
   tags:
     - text
 spec:
