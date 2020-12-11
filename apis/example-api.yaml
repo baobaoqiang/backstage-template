@@ -3,6 +3,8 @@ kind: API
 metadata:
   name: example-api
   description: 这是一个自定义的api，主要是为了探索写法
+  annotations:
+    backstage.io/techdocs-ref: github:https://github.com/backstage/backstage.git
 spec:
   type: js
   lifecycle: deprecated
