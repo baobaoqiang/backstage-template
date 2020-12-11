@@ -1,0 +1,11 @@
+apiVersion: backsstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Component例子
+  description: 自己自定义的component
+  tags:
+    - text
+spec:
+  type: other
+  lifecycle: experimental
+  owner: wq@example.com
